@@ -1,20 +1,54 @@
-## Olá!
-### Eu sou o Brunno Adão Roque de Lima 👋
-#### Programador PHP agregando conhecimento  na área de análise de dados.
+## 👋 Olá!  
+### Eu sou o Brunno Adão Roque de Lima  
 
-Aqui você pode saber um pouco mais sobre minha formação:
+💻 **Desenvolvedor Fullstack em transição para back-end com Go e aplicações Front-End modernas.**  
+Atualmente, trabalho com PHP e estou expandindo meu conhecimento para tecnologias mais escaláveis e performáticas, com foco em impacto social, liberdade profissional e estabilidade.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📚 Graduação em Análise de Sistemas
+---
 
-Neste momento, estou ampliando meu conhecimento através de cursos e formações listados abaixo:
+### 🎓 Formação Acadêmica
+- 📚 Graduação em **Análise de Sistemas**
+- 🧠 Cursos complementares:
+  - **Ciência de Dados com Python** – DIO (2023)
+  - **Bootcamp Santander Front-End 2025**
+  - **Formação em Desenvolvimento Web** – HTML, CSS, JS, APIs e mais
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Ciência de Dados com Python na DiO (2023)
+---
 
-Ferramentas e tecnologias conhecidas e que estou aperfeiçoando:
+### 🚀 Tecnologias & Ferramentas
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML5, CSS3, JavaScript, MySQL, PHP, Python, MySQL, SQL, NoSQL, Machine Learning, Power BI
+**Front-End:**
+- HTML5 • CSS3 • JavaScript • React (em evolução)
 
-Entre em contato comigo! 📧 <br> 
+**Back-End:**
+- PHP • Python • Go (em aprendizado)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbrunno-lima/)
+**Banco de Dados:**
+- MySQL • SQL Server • PostgreSQL • NoSQL (MongoDB)
+
+**Outros Conhecimentos:**
+- Machine Learning • Power BI • Git & GitHub • Metodologias Ágeis  
+- Linux Server • Apache • Consumo e Criação de APIs RESTful
+
+---
+
+### 🛠️ Projetos e Estudos em Andamento
+
+Atualmente focado em:
+- Construção de **APIs com Go**
+- Aplicações Front-End com React
+- Projetos que conectam tecnologia com **impacto social**
+
+Explore meus repositórios e acompanhe minha jornada de transição e evolução!
+
+---
+
+### 📫 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbrunno-lima/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbrunnolima/)
+
+---
+
+> _"Transformar ideias em soluções úteis e acessíveis: essa é minha missão como desenvolvedor."_ 🚀
+
